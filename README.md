@@ -25,4 +25,5 @@ From python to rust
 Resources
 ---------
 
+- [The Rust Programming Language](https://doc.rust-lang.org/book/)
 - [Rust nomicon](https://doc.rust-lang.org/nomicon/)
